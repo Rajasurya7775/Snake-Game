@@ -9,8 +9,7 @@
 
 ---
 ## 🎮 Demo
-!https://github.com/Rajasurya7775/Snake-Game/issues/1#issue-2959629440  
-_(*Upload an image in GitHub issues and paste the link here)_
+![Screenshot 2025-03-31 112527](https://github.com/user-attachments/assets/2ce9157a-a7a0-4360-975d-34ba1fa224ef)
 
 ---
 ## 📌 How to Play
