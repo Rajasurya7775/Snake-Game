@@ -1,9 +1,9 @@
 # 🐍 THE SNAKE GAME
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/Snake-Game?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/Snake-Game?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/Snake-Game)
-![GitHub license](https://img.shields.io/github/license/your-username/Snake-Game)
+![GitHub Repo stars](https://img.shields.io/github/stars/Rajasurya7775/Snake-Game?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Rajasurya7775/Snake-Game?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Rajasurya7775/Snake-Game)
+![GitHub license](https://img.shields.io/github/license/Rajasurya7775/Snake-Game)
 
 🚀 A **classic Snake Game** built using **Python** and the **Turtle module**. Control the snake, eat food, grow longer, and avoid collisions! 🎮🔥
 
@@ -23,7 +23,7 @@ _(*Upload an image in GitHub issues and paste the link here)_
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/Snake-Game.git
+git clone https://github.com/Rajasurya7775/Snake-Game.git
 cd Snake-Game
 ```
 ### 2️⃣ Install Dependencies
@@ -79,6 +79,6 @@ Want to improve this game? Follow these steps:
 ## 📜 License
 This project is **MIT Licensed**. See [LICENSE](LICENSE) for details.  
 
-💡 **Developed with ❤️ by [Your Name](https://github.com/your-username)**  
+💡 **Developed with ❤️ by Rajasurya (https://github.com/Rajasurya7775)**  
 🌟 If you like this project, **give it a star ⭐ on GitHub!**  
 
