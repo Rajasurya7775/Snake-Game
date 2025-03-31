@@ -9,7 +9,8 @@
 
 ---
 ## 🎮 Demo
-![Screenshot 2025-03-31 112527](https://github.com/user-attachments/assets/2ce9157a-a7a0-4360-975d-34ba1fa224ef)
+![Screenshot 2025-03-31 112527](https://github.com/user-attachments/assets/10109b36-bdcb-44ff-9dda-cff39badb298)
+
 
 ---
 ## 📌 How to Play
