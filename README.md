@@ -9,7 +9,7 @@
 
 ---
 ## 🎮 Demo
-![Snake Game Demo](https://your-image-link.com/demo.gif)  
+!https://github.com/Rajasurya7775/Snake-Game/issues/1#issue-2959629440  
 _(*Upload an image in GitHub issues and paste the link here)_
 
 ---
